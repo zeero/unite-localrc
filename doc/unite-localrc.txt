@@ -1,0 +1,19 @@
+*unite-localrc.txt*	A Unite.vim plugin to list localrc files.
+
+Author: zeero
+Licence: MIT
+
+==============================================================================
+INTRODUCTION					*unite-localrc-introduction*
+
+*unite-localrc* is a Unite.vim plugin to list localrc files.
+
+Requirement:
+- Shougo/unite.vim
+- thinca/vim-localrc
+
+Latest version:
+https://github.com/zeero/unite-localrc
+
+==============================================================================
+vim:tw=78:fo=tcq2mM:ts=8:ft=help:norl
